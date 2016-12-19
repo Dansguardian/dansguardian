@@ -1,0 +1,79 @@
+# DansGuardian messages file in French
+
+# Translated by: Bernard Wanadoo and Jacques Theys
+# Improvements by Jeanuel
+# Improvements by Mathieu Parent (2011)
+
+"1","Acc&egrave;s interdit"
+
+"100","Votre addresse IP n'est pas autoris&eacute;e &agrave; naviguer sur le site : "
+"101","Votre addresse IP n'est pas autoris&eacute;e &agrave; naviguer."
+"102","Votre compte utilisateur n'est pas autoris&eacute; &agrave; afficher le site : "
+
+"200","L'URL demand&eacute;e n'est pas bien form&eacute;e."
+
+"300","Phrase interdite : "
+"301","Phrase interdite trouv&eacute;e."
+
+"400","Combinaison de mots interdite : "
+"401","Combinaison de mots interdite trouv&eacute;e."
+"402","Limite de pond&eacute;ration "
+"403","Limite de pond&eacute;ration d&eacute;pass&eacute;e."
+
+"450","Terme de recherche interdit : "
+"451","Terme de recherche interdit trouv&eacute;."
+"452","Combinaison de termes de recherche interdite : "
+"453","Combinaison de termes de recherche interdite trouv&eacute;e."
+"454","Limite de pond&eacute;ration de termes de recherche "
+"455","Limite de pond&eacute;ration de termes de recherche d&eacute;pass&eacute;e."
+"456","Exception de combinaison de termes de recherche autoris&eacute;e : "
+"457","Exception de terme de recherche autoris&eacute; : "
+
+"500","Site interdit : "
+"501","URL interdite : "
+"502","Le mode liste blanche (Blanket Block) est actif et ce site n'est pas dans la liste autoris&eacute;e, blanche ou grise."
+"503","Expression r&eacute;guli&egrave;re d'URL interdite : "
+"504","Expression r&eacute;guli&egrave;re d'URL interdite trouv&eacute;e."
+"505","Le mode liste blanche d'IPs (IP Blanket Block) est actif et cette addresse est une adresse IP uniquement."
+"506","Le mode liste blanche SSL (SSL Blanket Block) est actif et ce site n'est pas dans la liste autoris&eacute;e, blanche ou grise."
+"507","Le mode liste blanche SSL d'IPs (SSL IP Blanket Block) est actif et cette addresse est une adresse IP uniquement."
+"508","Expression r&eacute;guli&egrave;re d'ent&ecirc;te HTTP interdite : ",
+"509","Expression r&eacute;guli&egrave;re d'ent&ecirc;te HTTP interdite trouv&eacute;e."
+
+"600","Exception d'adresse IP client trouv&eacute;e."
+"601","Exception d'utilisateur client trouv&eacute;e."
+"602","Exception de site trouv&eacute;e."
+"603","Exception d'URL trouv&eacute;e."
+"604","Exception de phrase trouv&eacute;e : "
+"605","Exception de combinaison de mots trouv&eacute;e : "
+"606","Exception d'URL sans controle trouv&eacute;e."
+"607","Exception de cookie sans controle trouv&eacute;e."
+"608","Exception d'URL sans inspection des logiciels malveillants trouv&eacute;e."
+"609","Exception d'expression r&eacute;guli&egrave;re d'URL trouv&eacute;e : "
+
+"700","L'upload web est interdit."
+"701","D&eacute;passement de la limite d'upload Web."
+
+"750","Le mode liste blanche de t&eacute;l&eacute;chargement (Blanket file download) est actif et ce type MIME n'est pas dans la liste blanche : "
+"751","Le mode liste blanche de t&eacute;l&eacute;chargement (Blanket file download) est actif et ce fichier n'est pas dans la liste blanche."
+
+"800","Type MIME interdit: "
+
+"900","Type de fichier interdit : "
+
+"1000","Niveau PICS depass&eacute; sur le site entier."
+
+"1100","Logiciel malveillant d&eacute;tect&eacute;."
+"1101","Publicit&eacute; bloqu&eacute;"
+
+"1200","Veuillez patienter - t&eacute;l&eacute;chargement du fichier en cours ..."
+"1201","Avertissement : fichier trop volumineux pour &egrave;tre inspect&eacute;. Si vous pensez que le fichier est plus volumineux que "
+"1202",", raffra&icirc;chissez la page pour le t&eacute;l&eacute;charger directement."
+
+"1210","T&eacute;l&eacute;chargement termin&eacute;. Inspection des logiciels malveillants en cours ..."
+
+"1220","Inspection du fichier termin&eacute;e.</p><p>Cliquez ici pour le t&eacute;l&eacute;charger : "
+"1221","T&eacute;l&eacute;charge termin&eacute;. fichier non inspect&eacute;.</p><p>Cliquez ici pour le t&eacute;l&eacute;charger : "
+"1222","Fichier trop volumineux pour &ecirc;tre mis en cache.</p><p>Cliquez ici pour le t&eacute;l&eacute;charger &agrav; nouveau, sans inspection des logiciels malveillants : "
+
+"1230","Le fichier n'est plus disponible"
